@@ -233,3 +233,4 @@ Run with debug mode:
 ```bash
 python src/main.py --once --debug
 ```
+_This repository is a clone of github.com/Julez14/igpt-carousel-content-generator (private) and has been adapted for public use._
