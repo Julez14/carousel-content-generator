@@ -1,6 +1,6 @@
 # TikTok Carousel Content Generator
 
-A fully automated TikTok carousel bot that generates and posts 7-slide carousels 3 times per day across multiple accounts.
+A fully automated TikTok carousel bot that generates and posts 7-slide carousels multiple times per day across multiple accounts.
 
 ## Features
 
