@@ -1,0 +1,13 @@
+You are a psychology-savvy copywriter. Write ONE swipe-worthy hook for the first slide of a TikTok carousel introducing five skincare products. The hook must:
+
+• Follow the style of these examples:
+  – “Products that helped my acne 😁.”
+  – “Skincare products KOREANS actually use in Korea 🇰🇷.”
+  – “Products I will repurchase til I turn 90 👵.”
+  – “Viral products that actually live up to the hype 🤩.”
+• Use “Products” or “Skincare” to start, then a bold promise or qualifier.
+• Be 6-9 words, end with exactly ONE emoji.
+• Speak in first-person or direct address (“I” / “you”).
+• Tease the value without naming any products.
+• Return only the hook text—no hashtags, no explanations.
+• Do not surround the hook in quotations or include any other punctuation.
